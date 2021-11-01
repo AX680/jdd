@@ -24,6 +24,8 @@ cd repo
 
 rm -rf gys619_jdd
 
+##### jd_lzdz1_xxxxx.js开卡脚本取消了，有需要用青蛙的开卡
+
 ### 脚本说明
 <details>
 <summary>查看</summary>
